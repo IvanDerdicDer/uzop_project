@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\data\regular_season_compact_results_2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\regular_season_detailed_results.csv">
           <value>
             <Attribute>
@@ -24,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\sample_submission_2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\seasons.csv">
           <value>
             <Attribute>
@@ -32,6 +46,13 @@
           </value>
         </entry>
         <entry key="\data\teams.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\tourney_compact_results.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -52,7 +73,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\tourney_seeds_2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\tourney_slots.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\tourney_slots_2015.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
